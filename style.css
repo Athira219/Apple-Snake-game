@@ -1,0 +1,6 @@
+h1,h2,.game-canvas{
+    text-align: center;
+}
+#game-status{
+    color: red;
+}
